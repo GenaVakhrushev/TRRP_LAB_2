@@ -1,0 +1,10 @@
+D:\Учёба\4 курс\1трим\ТРРП\TRRP_Lab_2\TRRP_Lab_2\bin\Debug\TRRP_Lab_2.exe.config
+D:\Учёба\4 курс\1трим\ТРРП\TRRP_Lab_2\TRRP_Lab_2\bin\Debug\TRRP_Lab_2.exe
+D:\Учёба\4 курс\1трим\ТРРП\TRRP_Lab_2\TRRP_Lab_2\bin\Debug\TRRP_Lab_2.pdb
+D:\Учёба\4 курс\1трим\ТРРП\TRRP_Lab_2\TRRP_Lab_2\obj\Debug\TRRP_Lab_2.csproj.AssemblyReference.cache
+D:\Учёба\4 курс\1трим\ТРРП\TRRP_Lab_2\TRRP_Lab_2\obj\Debug\TRRP_Lab_2.Form1.resources
+D:\Учёба\4 курс\1трим\ТРРП\TRRP_Lab_2\TRRP_Lab_2\obj\Debug\TRRP_Lab_2.Properties.Resources.resources
+D:\Учёба\4 курс\1трим\ТРРП\TRRP_Lab_2\TRRP_Lab_2\obj\Debug\TRRP_Lab_2.csproj.GenerateResource.cache
+D:\Учёба\4 курс\1трим\ТРРП\TRRP_Lab_2\TRRP_Lab_2\obj\Debug\TRRP_Lab_2.csproj.CoreCompileInputs.cache
+D:\Учёба\4 курс\1трим\ТРРП\TRRP_Lab_2\TRRP_Lab_2\obj\Debug\TRRP_Lab_2.exe
+D:\Учёба\4 курс\1трим\ТРРП\TRRP_Lab_2\TRRP_Lab_2\obj\Debug\TRRP_Lab_2.pdb
